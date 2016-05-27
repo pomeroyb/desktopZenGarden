@@ -2,6 +2,8 @@ buildPlateLength = 150;
 buildPlateWidth = 200;
 height = 20;
 wallThickness = 5;
+
+/* [Hidden] */
 flair = 20;
 buffer = flair + 5;
 
